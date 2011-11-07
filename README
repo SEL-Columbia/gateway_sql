@@ -1,1 +1,3 @@
-SQL used for analysis of meter/circuit data
+SQL used for analysis of meter/circuit data.
+
+See meter_summary.sql for sample SQL to generate Meter Summary view.
